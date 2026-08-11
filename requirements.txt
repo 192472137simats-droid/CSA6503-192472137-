@@ -1,0 +1,8 @@
+pypdf
+chromadb
+sentence-transformers
+scikit-learn
+langchain
+langchain-core
+langchain-chroma
+openai
