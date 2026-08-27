@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 4: Comparing How Prompt Changes Affect Generated Images
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Create multiple images from different text prompts and compare how changes

@@ -1,6 +1,6 @@
 # Unit 4 Lab - Multimodal Generative AI Applications
 
-**SIMATS Engineering** | Name: A.Sai Rohit | Reg No: 192472144
+**SIMATS Engineering** | Name: G.Sai Teja | Reg No: 192472137
 
 Ten experiments that use **pre-trained Hugging Face models** to build multimodal
 generative AI applications: chatbots, text-to-image, speech-to-text,

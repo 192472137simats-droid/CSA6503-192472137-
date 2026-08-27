@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 8: English to Indian Language Machine Translation
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Develop a machine translation application that translates an engineering

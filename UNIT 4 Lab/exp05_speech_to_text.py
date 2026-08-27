@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 5: Speech-to-Text for Spoken Engineering Queries
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Develop a Speech-to-Text application that converts a user's spoken

@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 7: Summarising a Lengthy Engineering Document
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Develop an AI application that summarizes a lengthy engineering document

@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 10: AI-Based Research Assistance Application
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Develop an AI-based Research Assistance application that accepts a research

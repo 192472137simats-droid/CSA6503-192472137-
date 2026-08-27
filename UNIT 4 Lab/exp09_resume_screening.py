@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 9: AI-Based Resume Screening and Ranking
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Develop an AI-based Resume Screening application that analyses candidate

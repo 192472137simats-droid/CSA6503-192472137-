@@ -1,6 +1,6 @@
 """
 Unit 4 - Experiment 3: Text-to-Image Generation of an Engineering Object
-SIMATS Engineering | Name: A.Sai Rohit | Reg No: 192472144
+SIMATS Engineering | Name: G.Sai Teja | Reg No: 192472137
 
 AIM:
     Generate an engineering-related image, such as a bridge or robotic system,
