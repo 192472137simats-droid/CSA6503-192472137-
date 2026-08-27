@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# generated media and reports (regenerate by running the experiments)
+outputs/*.png
+outputs/*.wav
+outputs/*.txt
+outputs/*.md
+
+# model caches
+.cache/
+*.safetensors
+*.bin
